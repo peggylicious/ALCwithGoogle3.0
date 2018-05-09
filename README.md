@@ -19,9 +19,9 @@ Learning how to build websites has been a superb experience for me and I would l
 
 
 ** What has been easy? **
-* Formatting the document using paragraph <p> tags, bold <b> tags, and emphasis <em> tags.
+* Formatting the document using paragraph &ltp&gt tags, bold &ltb&gt tags, and emphasis &ltem&gt tags.
 
 ** What has been difficult? **
-* Letting go of the deprecated strike <strike> tag and making use of the <s> tag and <del> tag, hich serve the same purpose to strile through a text.
+* Letting go of the deprecated strike &ltstrike&gt tag and making use of the &ltsgt tag and &ltdel&gt tag, hich serve the same purpose to strile through a text.
 
 ** How have you used the problem solving strategies from the first project to overcome challenges so far? **
